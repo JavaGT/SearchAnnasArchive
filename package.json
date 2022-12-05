@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "node-html-parser": "^6.1.4"
+  },
+  "name": "searchannasarchive",
+  "version": "1.0.0",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaGT/SearchAnnasArchive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaGT/SearchAnnasArchive/issues"
+  },
+  "homepage": "https://github.com/JavaGT/SearchAnnasArchive#readme",
+  "description": ""
+}
