@@ -7,6 +7,6 @@ Works via webscraping, so vulnerable to changes in the website.
 ## Use
 
 ```js
-import { search } from "annasarchivesearch";
+import { search } from "searchannasarchive";
 const results = await search(query);
 ```
