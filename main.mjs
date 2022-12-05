@@ -21,7 +21,7 @@ export default async function search(query) {
             return {
                 href,
                 img: img[i],
-                info: splitTrim([info[i * 4], info[i * 4 + 1], info[i * 4 + 2], info[i * 4 + 3]].join(','))
+                info: [info[i * 4], info[i * 4 + 1], info[i * 4 + 2], info[i * 4 + 3]]
             }
         })
     }
